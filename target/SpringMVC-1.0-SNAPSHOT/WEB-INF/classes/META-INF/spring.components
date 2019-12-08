@@ -1,0 +1,6 @@
+org.bolshakov.aspect.CRMLoggingAspect=org.springframework.stereotype.Component
+org.bolshakov.dao.CustomerDAOImpl=org.springframework.stereotype.Component
+org.bolshakov.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+org.bolshakov.service.CustomerServiceImpl=org.springframework.stereotype.Component
+org.bolshakov.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+org.bolshakov.springdemo.controller.TestDbServlet=javax.servlet.annotation.WebServlet
